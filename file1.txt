@@ -1,1 +1,2 @@
+select id, place from account
 select id, name from account
