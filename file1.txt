@@ -1,1 +1,1 @@
-select id from account 
+select id, name from account
